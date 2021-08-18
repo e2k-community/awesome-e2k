@@ -25,11 +25,12 @@
 ### Операционные системы
 В данный раздел вносятся только ОС работающие в нативном режиме.
 
-* ОС Эльбрус
-* Альт
-* Astra Linux Leningrad
-* EmBox
-* 
+* [ОС Эльбрус](http://www.mcst.ru/elbrus_linux)
+* [Альт Рабочая станция](https://docs.altlinux.org/ru-RU/alt-workstation-e2k/9.2/html/alt-workstation-e2k/index.html)
+* [Альт Сервер](https://docs.altlinux.org/ru-RU/alt-server-e2k/9.2/html/alt-server-e2k/index.html)
+* [Astra Linux SE Leningrad](https://astralinux.ru/information/library/#release-leningrad)
+* [EmBox](https://github.com/embox/embox)
+* [ЗОСРВ «Нейтрино-Э](https://kpda.ru/products/kpda10965/)
 
 ### Программы
 В этом разделе содержится ПО которое поставляется отдельно от дистрибутивов Linux. Для просмотрра программ идущих в вашем дистрибутиве воспользуйтесь поиском через менеджер пакетов. 
