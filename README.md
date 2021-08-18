@@ -17,6 +17,9 @@
 ## Книги и статьи
 ### Книги
 
+* Руководство по эффективному программированию на платформе «Эльбрус» [HTML](http://ftp.altlinux.org/pub/people/mike/elbrus/docs/elbrus_prog/html/), [PDF](http://www.mcst.ru/files/5ed39a/dd0cd8/50506b/000000/elbrus_prog_2020-05-30.pdf)
+* Микропроцессоры и вычислительные комплексы семейства "Эльбрус" [PDF](http://www.mcst.ru/files/511cea/886487/1a8f40/000000/book_elbrus.pdf)
+
 ### Статьи от сотрудников МЦСТ
 
 ### Статьи от энтузиастов и партнеров
