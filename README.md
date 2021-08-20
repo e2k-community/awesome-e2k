@@ -39,7 +39,7 @@
 * [Зачем нужна низкоуровневая оптимизация на Эльбрусе или как ускорить распознающую систему в полтора раза](https://habr.com/ru/company/smartengines/blog/438948/)
 * [Оптимизация кода для платформы Эльбрус на простых примерах](https://habr.com/ru/company/smartengines/blog/317672/)
 * [Распознавание паспорта РФ на платформе Эльбрус. Часть 1](https://habr.com/ru/company/smartengines/blog/304750/)
-* [https://habr.com/ru/company/smartengines/blog/340918/](Оптимизация метода Виолы и Джонса для платформы Эльбрус)
+* [Оптимизация метода Виолы и Джонса для платформы Эльбрус](https://habr.com/ru/company/smartengines/blog/340918/)
 * Серия статей по тестированию производительности Эльбрусов от *EntityFX*
 	* [Новогодние бенчмарки компьютеров Эльбрус](https://habr.com/ru/company/icl_services/blog/534296/)
 	* [Большое тестирование процессоров различных архитектур](https://habr.com/ru/company/icl_services/blog/501588/)
