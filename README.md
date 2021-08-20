@@ -22,6 +22,11 @@
 
 ### Статьи от сотрудников МЦСТ
 
+* [Виртуализация подсистемы прерываний микропроцессоров «Эльбрус](http://www.mcst.ru/files/5fe5bc/d4dece/619b67/33a144/s.a._rybakov_r.v._demenko_virtualizatsiya_podsistemy_preryvaniy_mikroprotsessorov_elbrus.pdf)
+* [Среды программирования и оптимизирующие компиляторы для компьютеров с микропроцессорами архитектуры "Эльбрус"](http://www.mcst.ru/files/5c21fb/330cd8/50cf3f/000000/m.i._neyman-zade_v.yu._volkonskiy_sredy_programmirovaniya_i_optimiziruyushchie_kompilyatory_dlya_kompyuterov_s_mikroprotsessorami_arhitektury_elbrus.pdf)
+* [Виртуализация ОС «Эльбрус»](http://www.mcst.ru/files/5fe5d1/ffdece/61aa69/33a145/rybakov_s.a._virtualizatsiya_os_elbrus.pdf)
+* [МИКРОАРХИТЕКТУРА ВОСЬМИЯДЕРНОГО УНИВЕРСАЛЬНОГО МИКРОПРОЦЕССОРА «ЭЛЬБРУС-8C»](http://www.mcst.ru/files/5847d5/d90cd8/508971/000000/alfonso_d.m._demenko_r.v._kozhin_a.s._kozhin_e.s._kolychev_r.e._kostenko_v.o.__polyakov_n.yu._smirnova_e.v._smirnov_d.a.smolyanov_p.a._tihorskiy_v.v..pdf)
+
 ### Статьи от энтузиастов и партнеров
 
 * [Статья по архитектуре Эльбрус-2000 на Wikipedia](https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81_2000)
