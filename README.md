@@ -54,7 +54,7 @@
 	* [Большое тестирование процессоров различных архитектур](https://habr.com/ru/company/icl_services/blog/501588/)
 	* [Сравнение процессоров Байкал-М и Эльбрус-8СВ](https://habr.com/ru/company/icl_services/blog/558564/)
 * [Архитектура процессора Эльбрус: стоит ли все это своих денег?](https://habr.com/ru/company/macloud/blog/566478/)
-
+* [Процессор Эльбрус — почему статья о тупике несостоятельна](https://habr.com/ru/post/575302/)
 
 ## Операционные системы, программы и игры
 ### Операционные системы
@@ -91,4 +91,7 @@
 * [Домашний "Эльбрус"](https://www.youtube.com/c/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81) - канал энтузиаста посвященный Эльбрусам.
 
 ### Форумы и wiki
-
+[Платформа «Эльбрус»](http://forum.elbrus.ru/) Официальный форум пользователей, партнёров и разработчиков
+[Официальная Wiki](https://wiki.elbrus.ru/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
+[Раздел Alt Linux Wiki посвященный Эльбрусам](https://www.altlinux.org/%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81)
+[Раздел по Astra Linux Special edition](https://wiki.astralinux.ru/pages/viewpage.action?pageId=53647195) Раздел по Astra Linux Special edition со статьями в т.ч. и для эксплуатации под Эльбрус.
