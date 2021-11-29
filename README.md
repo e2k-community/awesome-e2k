@@ -59,6 +59,7 @@
 	* [Сравнение процессоров Байкал-М и Эльбрус-8СВ](https://habr.com/ru/company/icl_services/blog/558564/)
 * [Архитектура процессора Эльбрус: стоит ли все это своих денег?](https://habr.com/ru/company/macloud/blog/566478/)
 * [Процессор Эльбрус — почему статья о тупике несостоятельна](https://habr.com/ru/post/575302/)
+* [Все, что известно о процессорах «Эльбрус»](https://club.dns-shop.ru/digest/54388-vse-chto-izvestno-o-protsessorah-elbrus/)
 
 ### Доклады на конференциях, семинарах
 
