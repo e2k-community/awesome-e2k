@@ -59,6 +59,8 @@
 	* [Сравнение процессоров Байкал-М и Эльбрус-8СВ](https://habr.com/ru/company/icl_services/blog/558564/)
 * [Архитектура процессора Эльбрус: стоит ли все это своих денег?](https://habr.com/ru/company/macloud/blog/566478/)
 * [Процессор Эльбрус — почему статья о тупике несостоятельна](https://habr.com/ru/post/575302/)
+* [Все, что известно о процессорах «Эльбрус»](https://club.dns-shop.ru/digest/54388-vse-chto-izvestno-o-protsessorah-elbrus/)
+* [Результаты тестов от EntityFX на ALT Wiki](https://www.altlinux.org/%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81/%D1%82%D0%B5%D1%81%D1%82%D1%8B/%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
 
 ### Доклады на конференциях, семинарах
 
@@ -80,6 +82,7 @@
 
 ### Программы
 В этом разделе содержится ПО которое поставляется отдельно от дистрибутивов Linux. Для просмотрра программ идущих в вашем дистрибутиве воспользуйтесь поиском через менеджер пакетов. 
+* [Kaspersky Endpoint Security 10.1.1 для Linux редакция под Эльбрус](https://support.kaspersky.com/help/KES4LinuxElbrus/10.1.2/ru-RU/187444.htm)
 
 ### Патчи
 * [Патчи на производительность и исправления ошибок сборки](https://github.com/ilyakurdyukov/e2k-ports) (с) Илья Курдюков
