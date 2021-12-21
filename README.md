@@ -64,6 +64,8 @@
 
 * [Архитектура процессора Эльбрус 2000 / Дмитрий Завалишин (Digital Zone) / HighLoad++ 2021](https://www.youtube.com/watch?v=6SZZ7ASOR7s)
 * [Юрлин Сергей, АО "МЦСТ" - Текущий уровень и перспективы платформы Эльбрус / SECON 2021](https://www.youtube.com/watch?v=4b6c1PcH9pI)
+* [Артём (a.k.a. EntityFX) - Бенчмарки Эльбруса](https://www.youtube.com/watch?v=lr3z37tpdlY)
+* [Алибек (a1batross) - Открываем закрытые двери: Эмуляция Эльбруса](https://www.youtube.com/watch?v=lAYbziHO6p8) 
 
 ## Операционные системы, программы и игры
 ### Операционные системы
