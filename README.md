@@ -66,6 +66,8 @@
 
 * [Архитектура процессора Эльбрус 2000 / Дмитрий Завалишин (Digital Zone) / HighLoad++ 2021](https://www.youtube.com/watch?v=6SZZ7ASOR7s)
 * [Юрлин Сергей, АО "МЦСТ" - Текущий уровень и перспективы платформы Эльбрус / SECON 2021](https://www.youtube.com/watch?v=4b6c1PcH9pI)
+* [Артём (a.k.a. EntityFX) - Бенчмарки Эльбруса](https://www.youtube.com/watch?v=lr3z37tpdlY)
+* [Алибек (a1batross) - Открываем закрытые двери: Эмуляция Эльбруса](https://www.youtube.com/watch?v=lAYbziHO6p8) 
 
 ## Операционные системы, программы и игры
 ### Операционные системы
@@ -112,6 +114,7 @@
 * [Elbrus PC Test](https://www.youtube.com/c/ElbrusPCTest) - канал энтузиастов которые портирую игры на Эльбрус и делают стримы с ними.
 * [EntityFX](https://www.youtube.com/user/EntityFX) - канал энтузиаста занимающегося тестами производительности отечественных процессоров, в т.ч. и Эльбрусов.
 * [Домашний "Эльбрус"](https://www.youtube.com/c/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81) - канал энтузиаста посвященный Эльбрусам.
+* [e2k community](https://www.youtube.com/channel/UCkUZ9jJWVkXkYRenK5aTO6g) - канал на котором хранятся материалы неофициальных митапов посвященных Эльбрусам и не только.
 
 ### Форумы и wiki
 * [Платформа «Эльбрус»](http://forum.elbrus.ru/) Официальный форум пользователей, партнёров и разработчиков
