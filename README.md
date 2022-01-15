@@ -111,7 +111,7 @@
 ### Youtube каналы
 * [ElbrusTV](https://www.youtube.com/user/ElbrusTV) - официальный канал.
 * [Maxim Gorshenin](https://www.youtube.com/c/MaximGorshenin) - Канал Максима Горшенина посвященный отечественной микроэлектронике.
-* [Elbrus PC Test](https://www.youtube.com/c/ElbrusPCTest) - канал энтузиастов которые портирую игры на Эльбрус и делают стримы с ними.
+* [Elbrus PC Test](https://www.youtube.com/c/ElbrusPCTest) - канал энтузиастов которые портируют игры на Эльбрус и делают стримы с ними.
 * [EntityFX](https://www.youtube.com/user/EntityFX) - канал энтузиаста занимающегося тестами производительности отечественных процессоров, в т.ч. и Эльбрусов.
 * [Домашний "Эльбрус"](https://www.youtube.com/c/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81) - канал энтузиаста посвященный Эльбрусам.
 * [e2k community](https://www.youtube.com/channel/UCkUZ9jJWVkXkYRenK5aTO6g) - канал на котором хранятся материалы неофициальных митапов посвященных Эльбрусам и не только.
