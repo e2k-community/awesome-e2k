@@ -106,7 +106,7 @@
 * [Эльбрусы и с чем их едят](https://t.me/e2k_chat) - чат для тематического общения по Эльбрусам и смежным темам.
 * [Процессоры Эльбрус | Фан-клуб](https://t.me/e2k_fans) - неофициальный канал посвященный Эльбрусам.
 * [IT-Флудильня фан-клуба ⚡️МЦСТ⚡️Эльбрус⚡️](https://t.me/joinchat/E7cNDEYgqvaXkf0x)
-* [imaxai | CPU Эльбрус](https://t.me/imaxairu)
+* [imaxai | Максим Горшенин](https://t.me/imaxairu)
 
 ### Youtube каналы
 * [ElbrusTV](https://www.youtube.com/user/ElbrusTV) - официальный канал.
