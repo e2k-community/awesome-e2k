@@ -76,6 +76,7 @@
 * [Алибек (a1batross) - Открываем закрытые двери: Эмуляция Эльбруса](https://www.youtube.com/watch?v=lAYbziHO6p8)
 * [Михаил Шигорин - Альт на эльбрусе](https://youtu.be/_mrfQoEsiFk)
 * [Ge0gr4f - Артист и Лентяй (RTC и Lintel)](https://youtu.be/wJrpAQVJxxY)
+* [Антон Бондарев - ОСРВ Embox на платформе Эльбрус](https://youtu.be/pRjXHq5uZ6k)
 
 ## Операционные системы, программы и игры
 ### Операционные системы
