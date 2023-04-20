@@ -3,6 +3,10 @@
 В данном репозитории собраны материалы касающиеся процессоров на архитектуре Эльбрус-2000 (e2k).
 
 ---
+
+Вы можете предложить свою правку через [issue](https://github.com/e2k-community/awesome-e2k/issues) или [pull request](https://github.com/e2k-community/awesome-e2k/pulls).
+
+---
 - Книги, статьи и доклады на конференциях
 	- [Книги](#книги)
 	- [Статьи от сотрудников МЦСТ](#статьи-от-сотрудников-мцст)
@@ -62,6 +66,7 @@
 * [Все, что известно о процессорах «Эльбрус»](https://club.dns-shop.ru/digest/54388-vse-chto-izvestno-o-protsessorah-elbrus/)
 * [Результаты тестов от EntityFX на ALT Wiki](https://www.altlinux.org/%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81/%D1%82%D0%B5%D1%81%D1%82%D1%8B/%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
 * [Война с компилятором и собой: об оптимизациях вещественной арифметики на Эльбрусе](https://habr.com/ru/post/647165/)
+* [Загоняем Альпаку на Эльбрус](https://habr.com/ru/articles/729448/)
 
 ### Доклады на конференциях, семинарах
 
@@ -71,6 +76,7 @@
 * [Алибек (a1batross) - Открываем закрытые двери: Эмуляция Эльбруса](https://www.youtube.com/watch?v=lAYbziHO6p8)
 * [Михаил Шигорин - Альт на эльбрусе](https://youtu.be/_mrfQoEsiFk)
 * [Ge0gr4f - Артист и Лентяй (RTC и Lintel)](https://youtu.be/wJrpAQVJxxY)
+* [Антон Бондарев - ОСРВ Embox на платформе Эльбрус](https://youtu.be/pRjXHq5uZ6k)
 
 ## Операционные системы, программы и игры
 ### Операционные системы
@@ -120,8 +126,9 @@
 * [Домашний "Эльбрус"](https://www.youtube.com/c/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81) - канал энтузиаста посвященный Эльбрусам.
 * [Azhale](https://www.youtube.com/@azhale) - канал на котором хранятся материалы неофициальных митапов посвященных Эльбрусам и не только.
 
-### Форумы и wiki
+### Сайты, форумы и wiki
 * [Платформа «Эльбрус»](http://forum.elbrus.ru/) Официальный форум пользователей, партнёров и разработчиков
 * [Официальная Wiki](https://wiki.elbrus.ru/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
 * [Раздел Alt Linux Wiki посвященный Эльбрусам](https://www.altlinux.org/%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81)
 * [Раздел по Astra Linux Special edition](https://wiki.astralinux.ru/pages/viewpage.action?pageId=53647195) Раздел по Astra Linux Special edition со статьями в т.ч. и для эксплуатации под Эльбрус.
+* [Сайт о Эльбрус](https://елбрус.рус/)
