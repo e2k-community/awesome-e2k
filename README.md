@@ -66,6 +66,7 @@
 * [Все, что известно о процессорах «Эльбрус»](https://club.dns-shop.ru/digest/54388-vse-chto-izvestno-o-protsessorah-elbrus/)
 * [Результаты тестов от EntityFX на ALT Wiki](https://www.altlinux.org/%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81/%D1%82%D0%B5%D1%81%D1%82%D1%8B/%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
 * [Война с компилятором и собой: об оптимизациях вещественной арифметики на Эльбрусе](https://habr.com/ru/post/647165/)
+* [Загоняем Альпаку на Эльбрус](https://habr.com/ru/articles/729448/)
 
 ### Доклады на конференциях, семинарах
 
