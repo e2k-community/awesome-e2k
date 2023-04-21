@@ -118,6 +118,7 @@
 * [Процессоры Эльбрус | Фан-клуб](https://t.me/e2k_fans) - неофициальный канал посвященный Эльбрусам.
 * [IT-Флудильня фан-клуба ⚡️МЦСТ⚡️Эльбрус⚡️](https://t.me/joinchat/E7cNDEYgqvaXkf0x)
 * [imaxai | Максим Горшенин](https://t.me/imaxairu) - Телеграм канал Максима Горшенина
+* [OpenE2K](https://t.me/qemu_e2k) - группа сообщества разрабатывающая эмулятор процессора Эльбрус
 
 ### Youtube каналы
 * [ElbrusTV](https://www.youtube.com/user/ElbrusTV) - официальный канал.
