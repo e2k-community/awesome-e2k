@@ -66,7 +66,7 @@
 * [Все, что известно о процессорах «Эльбрус»](https://club.dns-shop.ru/digest/54388-vse-chto-izvestno-o-protsessorah-elbrus/)
 * [Результаты тестов от EntityFX на ALT Wiki](https://www.altlinux.org/%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81/%D1%82%D0%B5%D1%81%D1%82%D1%8B/%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
 * [Война с компилятором и собой: об оптимизациях вещественной арифметики на Эльбрусе](https://habr.com/ru/post/647165/)
-* [Загоняем Альпаку на Эльбрус](https://habr.com/ru/articles/729448/)
+* Серия статей Загоняем Альпаку на Эльбрус [часть 1](https://telegra.ph/Zagonyaem-Alpaku-na-EHlbrus-04-15), [часть 2](https://telegra.ph/Snova-zagonyaem-Alpaku-na-EHlbrus-04-16) или на [Хабре]](https://habr.com/ru/articles/729448/)
 
 ### Доклады на конференциях, семинарах
 
@@ -90,6 +90,7 @@
 * [ЗОСРВ «Нейтрино-Э](https://kpda.ru/products/kpda10965/)
 * [ОС РВ «БагрОС-4000»](https://www.sukhoi.org/bagros/)
 * [ОС Лотос](https://instreamcom.com/ru/elbrus)
+* [РедОС](https://redos.red-soft.ru/product/red-os/) (ссылки на страницу про Эльбрус не нашел но есть подтверждение, что оно [живое](https://t.me/e2k_fans/713))
 
 ### Программы
 В этом разделе содержится ПО которое поставляется отдельно от дистрибутивов Linux. Для просмотрра программ идущих в вашем дистрибутиве воспользуйтесь поиском через менеджер пакетов. 
@@ -117,6 +118,7 @@
 * [Процессоры Эльбрус | Фан-клуб](https://t.me/e2k_fans) - неофициальный канал посвященный Эльбрусам.
 * [IT-Флудильня фан-клуба ⚡️МЦСТ⚡️Эльбрус⚡️](https://t.me/joinchat/E7cNDEYgqvaXkf0x)
 * [imaxai | Максим Горшенин](https://t.me/imaxairu) - Телеграм канал Максима Горшенина
+* [OpenE2K](https://t.me/qemu_e2k) - группа сообщества разрабатывающая эмулятор процессора Эльбрус
 
 ### Youtube каналы
 * [ElbrusTV](https://www.youtube.com/user/ElbrusTV) - официальный канал.
