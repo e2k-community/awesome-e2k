@@ -138,6 +138,7 @@
 * [Раздел Alt Linux Wiki посвященный Эльбрусам](https://www.altlinux.org/%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81)
 * [Раздел по Astra Linux Special edition](https://wiki.astralinux.ru/pages/viewpage.action?pageId=53647195) Раздел по Astra Linux Special edition со статьями в т.ч. и для эксплуатации под Эльбрус.
 * [Сайт о Эльбрус](https://елбрус.рус/) - Сайт со справочной информацией по Эльбрусам.
+* [Раздел по портированию в РБВ на Handydev Blog](https://blog.handydev.com/category/%D1%8D%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81)
 
 # Как попробовать Эльбрус
 ## Удаленный доступ
