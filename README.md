@@ -96,10 +96,13 @@
 ### Программы
 В этом разделе содержится ПО которое поставляется отдельно от дистрибутивов Linux. Для просмотрра программ идущих в вашем дистрибутиве воспользуйтесь поиском через менеджер пакетов. 
 * [Kaspersky Endpoint Security 10.1.1 для Linux редакция под Эльбрус](https://support.kaspersky.com/help/KES4LinuxElbrus/10.1.2/ru-RU/187444.htm)
+* [1С:Предприятие (версия 8.3.25)](https://v8.1c.ru/platforma/elbrus/)
 
 ### Патчи
 * [Патчи на производительность и исправления ошибок сборки](https://github.com/ilyakurdyukov/e2k-ports) (с) Илья Курдюков
 * [Опубликованные альтом Glibc, binutils, ядро и некоторые другие библиотеки](https://github.com/free-src/free-src)
+* [Портированные программы из ОС Эльбрус](https://git.openelbrus.ru/mcst/osl)
+
 
 
 ### Инструменты разработки
@@ -108,6 +111,8 @@
 
 ### Библиотеки
 * [Koishi](https://github.com/taisei-project/koishi) - Библиотека для реализации нативных корутин с поддержкой E2K
+* [llvm-project-e2k ](https://gitflic.ru/project/e2khome/llvm-project-e-2-k) - LLVM с поддержкой e2k архитектуры
+* [lcc-rt](https://gitflic.ru/project/e2khome/lccrt) - Проект lccrt применяется в ттрансляторе llvm-EIR в llvm-project-e2k
 
 ### Игры
 Игры портированные на Эльбрус.
