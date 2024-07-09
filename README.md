@@ -30,7 +30,7 @@
 ## Книги и статьи
 ### Книги
 
-* Руководство по эффективному программированию на платформе «Эльбрус» [HTML](http://mcst.ru/doc/elbrus_prog/html/index.html) или на [AltWiki](http://ftp.altlinux.org/pub/people/mike/elbrus/docs/elbrus_prog/html/), [PDF](http://mcst.ru/doc/elbrus_prog/elbrus-prog-1.2_2024-02-28.pdf)
+* Руководство по эффективному программированию на платформе «Эльбрус» [HTML](http://mcst.ru/doc/elbrus_prog/html/index.html) или [зеркало](http://ftp.altlinux.org/pub/people/mike/elbrus/docs/elbrus_prog/html/) у команды Альтлинукс, [PDF](http://mcst.ru/doc/elbrus_prog/elbrus-prog-1.2_2024-02-28.pdf)
 * Микропроцессоры и вычислительные комплексы семейства "Эльбрус" [PDF](http://www.mcst.ru/files/511cea/886487/1a8f40/000000/book_elbrus.pdf)
 
 ### Статьи от сотрудников МЦСТ
@@ -67,7 +67,7 @@
 * [Все, что известно о процессорах «Эльбрус»](https://club.dns-shop.ru/digest/54388-vse-chto-izvestno-o-protsessorah-elbrus/)
 * [Результаты тестов от EntityFX на ALT Wiki](https://www.altlinux.org/%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81/%D1%82%D0%B5%D1%81%D1%82%D1%8B/%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
 * [Война с компилятором и собой: об оптимизациях вещественной арифметики на Эльбрусе](https://habr.com/ru/post/647165/)
-* Серия статей Загоняем Альпаку на Эльбрус [часть 1](https://telegra.ph/Zagonyaem-Alpaku-na-EHlbrus-04-15), [часть 2](https://telegra.ph/Snova-zagonyaem-Alpaku-na-EHlbrus-04-16) или на [Хабре]](https://habr.com/ru/articles/729448/)
+* Серия статей Загоняем Альпаку на Эльбрус [часть 1](https://telegra.ph/Zagonyaem-Alpaku-na-EHlbrus-04-15), [часть 2](https://telegra.ph/Snova-zagonyaem-Alpaku-na-EHlbrus-04-16) или на [Хабре](https://habr.com/ru/articles/729448/)
 
 ### Доклады на конференциях, семинарах
 
@@ -100,7 +100,7 @@
 
 ### Патчи
 * [Патчи на производительность и исправления ошибок сборки](https://github.com/ilyakurdyukov/e2k-ports) (с) Илья Курдюков
-* [Опубликованные альтом Glibc, binutils, ядро и некоторые другие библиотеки](https://github.com/free-src/free-src)
+* [Слитые Glibc, binutils, ядро и некоторые другие библиотеки из Альтлинукс](https://github.com/free-src/free-src)
 * [Портированные программы из ОС Эльбрус](https://git.openelbrus.ru/mcst/osl)
 
 
@@ -149,7 +149,7 @@
 
 # Как попробовать Эльбрус
 ## Удаленный доступ
-* [Неофициальный доступ от энтузиаста](https://elbrus.kurisa.ch/)
+* [Стенд ИНЭУМ под управлением Игоря Молчанова](https://elbrus.kurisa.ch/)
 * [Официальный доступ для разработчиков от МЦСТ](https://dev.mcst.ru/access/)
 * [Сетевая лаборатория МСЦТ для юридических лиц](https://mcst.ru/lab)
 
